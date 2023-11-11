@@ -8,4 +8,5 @@ Greetings! My name is Nixon, and I'm excited to share my still developing data e
 - Technology used: *Python, Selenium, Pandas*
 - Final results: [*output CSV and XML file with results*](google.com)
 
-  
+#
+[LinkedIn Profile](https://www.linkedin.com/in/nixon-hutahaean/)
