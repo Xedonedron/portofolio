@@ -16,7 +16,7 @@ Greetings! My name is Nixon, and I'm excited to share my still developing data e
 ### [*Sentiment Analysis on Tweet Data - Python, Pandas, PySpark, Kafka*](https://github.com/Xedonedron/PDBFinalProject)
 - Brief overview: Doing sentiment analysis on twitter data streams to find out public reaction to the latest films/music (in this case, we are using Cupid from FIFTY-FIFTY song)
 - Technologgy used: *Python, Pandas, PySpark, Kafka, Docker*
-- Final results: The sentiment comes as output in command line, and also with the visualization ![xedo_dashboard](https://github.com/Xedonedron/PDBFinalProject/blob/main/Twitter%20Sentiment%20Analysis%20Output.jpg)
+- Final results: The sentiment comes as output in command line, and also with the [*visualization*](https://github.com/Xedonedron/PDBFinalProject/blob/main/Twitter%20Sentiment%20Analysis%20Output.jpg)
 
 #
 [LinkedIn Profile](https://www.linkedin.com/in/nixon-hutahaean/)
